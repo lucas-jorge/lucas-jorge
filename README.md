@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1d1d21&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Lucas+Jorge;I'm+from+Brazil;I+Study+Software+Development+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucas-jorge&show_icons=true&count_private=true&hide_border=true&title_color=FFA07A&icon_color=FFA07A&text_color=FA8072&bg_color=0d1117" alt="Lucas Jorge github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nataly-Carvalho&layout=compact&hide_border=true&title_color=FFA07A&text_color=FA8072&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-jorge&layout=compact&hide_border=true&title_color=FFA07A&text_color=FA8072&bg_color=0d1117" />
 </div>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lucas-jorge&bg_color=0d1117&color=FA8072&line=F08080&point=FFA07A&area=true&hide_border=true&point=f9fafa&area=true&hide_border=true)
